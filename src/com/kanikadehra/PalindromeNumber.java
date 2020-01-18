@@ -1,5 +1,13 @@
 package com.kanikadehra;
 
+/*
+
+Write a program to find if a number is a palindrome
+
+Example isPalindrome(1331) will return true
+
+ */
+
 public class PalindromeNumber {
 
     public static boolean isPalindrome(int number){

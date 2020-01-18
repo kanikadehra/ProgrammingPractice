@@ -1,5 +1,12 @@
 package com.kanikadehra;
 
+/*
+
+Find the sum of first and last digit of a number
+
+*/
+
+
 public class FIrstLastSum {
 
     public static int sumFirstAndLastDigit(int number){
