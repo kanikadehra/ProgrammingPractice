@@ -1,5 +1,14 @@
 package com.kanikadehra;
 
+/*
+
+Write a program to get the sum of even digits in a number.
+
+Example: 7632 should return 8.
+
+ */
+
+
 public class EvenDigitSum {
 
     public static int getEvenDigitSum(int number) {

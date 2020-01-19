@@ -3,7 +3,7 @@ package com.kanikadehra;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(EvenDigitSum.getEvenDigitSum(-342));
+        System.out.println(HasSharedDigit.hasSharedDigit(12, 23));
 
 
     }
