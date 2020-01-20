@@ -13,7 +13,6 @@ public class HasSharedDigit {
 
     public static boolean hasSharedDigit(int num1 , int num2) {
 
-        int digit = 0;
 
         if((num1 <10 || num1 >99) || (num2 <10 || num2>99)){
 
