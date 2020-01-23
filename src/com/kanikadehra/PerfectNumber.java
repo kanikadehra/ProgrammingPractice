@@ -15,7 +15,7 @@ public class PerfectNumber {
 
             int i = 1;
 
-            while (i <= number) {
+            while (i < number) {
 
                 if (number % i == 0) {
                    sum = sum + i;
